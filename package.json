@@ -1,0 +1,16 @@
+{
+  "name": "explainthat-discord",
+  "version": "1.0.0",
+  "description": "\"Select any text on a webpage and have AI explain it for you\" as a Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "solarcosmic",
+  "license": "MIT",
+  "type": "commonjs",
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.0.1"
+  }
+}
