@@ -30,7 +30,7 @@ function sendAIRequest(content, callback) {
     })
     .then(response => response.json())
     .then(data => {
-        callback(data["choices"][0]["message"]["content"]);
+        callback(data["choices"][0]["message"]["content"].split("</think>").pop());
     });
 }
 
