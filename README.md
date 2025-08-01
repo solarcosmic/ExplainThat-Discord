@@ -1,4 +1,6 @@
-# ExplainThat-Discord
+<img width="1700" height="473" alt="explainthat_discord_edition_banner" src="https://github.com/user-attachments/assets/43aab5dd-e324-49e5-94b6-29663c03e061" />
+
+# ExplainThat! for Discord
 "Select any text on a webpage and have AI explain it for you" as a Discord bot.
 
 Based on my original project for Chrome: [ExplainThat](https://github.com/solarcosmic/ExplainThat).
@@ -18,3 +20,5 @@ Prerequisite: Make sure you have Node.js and npm installed. [Download here](http
 5. Invite your Discord bot to your Discord server. ExplainThat! only requires the `bot` scope and the `Send Messages` permission. Refer to [here](https://discordjs.guide/preparations/adding-your-bot-to-servers.html) if you need help.
 6. In that same terminal (or just a Command Prompt within that same location), you can run `node index.js` to run the Discord bot.
 7. Have fun! Reply to a message while pinging `@ExplainThat` to get a result.
+
+<img width="649" height="342" alt="Screenshot From 2025-08-02 10-48-31" src="https://github.com/user-attachments/assets/3e488ce0-88e6-4670-8073-939c6d90123d" />
